@@ -1,7 +1,7 @@
 window.addEventListener("DOMContentLoaded",()=> {
     "use strict";
 
-movies.splice(420)
+movies.splice(50)
 
 // --------------- NORMALIZE ALL MOVIES start --------------- //
 
